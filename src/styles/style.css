@@ -366,9 +366,11 @@ span {
     overflow: hidden;
 }
 
+
 .portifolio-box img {
     width: 100%;
     transition: .5s ease;
+    height: 100%;
 }
 
 .portifolio-box:hover img {
