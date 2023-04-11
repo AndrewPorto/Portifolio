@@ -422,6 +422,11 @@ span {
     color: #333;
 }
 
+.download {
+   margin-bottom: 10px;
+
+}
+
 .contact h2{
     margin-bottom: 3rem;
 }
