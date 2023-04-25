@@ -203,7 +203,7 @@ section {
     display: flex;
     justify-content: center;
     align-items: center;
-    animation: professionRotate 5s ease-in-out infinite;
+    animation: professionRotate 10s ease-in-out infinite;
 }
 
 @keyframes professionRotate {
@@ -811,5 +811,14 @@ span {
         top: 49%;
     }
     
+    .sobre-img {
+       margin-right: 210px;
+       
+    }
+
+    .sobre-img img {
+        width: 400px;
+        
+    }
 }
 
