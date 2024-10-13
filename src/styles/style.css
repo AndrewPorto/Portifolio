@@ -333,7 +333,9 @@ span {
     align-items: center;
     flex-wrap: wrap;
     gap: 2rem;
+
 }
+
 
 .services-container .services-box {
     flex: 1 1 30rem;
@@ -394,6 +396,9 @@ span {
     overflow: hidden;
 }
 
+.portifolio-box {
+    height: 400px;
+}
 
 .portifolio-box img {
     width: 100%;
